@@ -11,6 +11,9 @@ Basic literature and other material about particle physics (mostly high energy).
 * TASI school https://physicslearning.colorado.edu/tasi/ 
 * CERN summer student lectures https://indico.cern.ch/category/345/ 
 * CERN academic lectures https://indico.cern.ch/category/72/ 
+* CERN physics schools http://physicschool.web.cern.ch/PhysicSchool/ 
+* CERN computing schools https://csc.web.cern.ch 
+* MCnet schools on Monte Carlo event generators for LHC http://www.montecarlonet.org/index.php?p=MCSchool/main&sub=MCSchools 
 
 ### Quantum field theory and Standard Model books (for experimentalists)
 * D. V. Schroeder, M. E. Peskin, An Introduction to Quantum Field Theory
@@ -28,7 +31,7 @@ Basic literature and other material about particle physics (mostly high energy).
 
 ### Parton distribution functions review papers
 * A. D. Martin et al., Parton distributions for the LHC, https://arxiv.org/abs/0901.0002
-* H. -L. Lai, et al., New parton distributions for collider physics, https://arxiv.org/abs/1007.2241 
+* H. L. Lai, et al., New parton distributions for collider physics, https://arxiv.org/abs/1007.2241 
 * R. D. Ball et al., Parton distributions with LHC data, https://arxiv.org/abs/1207.1303 
 * S. Forte, G. Watt, Progress in the Determination of the Partonic Structure of the Proton, https://arxiv.org/abs/1301.6754 
 
@@ -37,6 +40,7 @@ Basic literature and other material about particle physics (mostly high energy).
 
 ### Experiemental summary papers 
 * LEP, Precision Electroweak Measurements on the Z Resonance, https://arxiv.org/abs/hep-ex/0509008 
+* W. Wagner, Top quark physics in hadron collisions, https://arxiv.org/abs/hep-ph/0507207 
 
 ### Data science and statistics books 
 * G. Cowan, Statistical Data Analysis
