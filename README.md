@@ -17,10 +17,11 @@ Basic literature and other material about particle physics (mostly high energy).
 * A. Zee, Quantum Field Theory in a Nutshell
 * R. K. Ellis, QCD and Collider Physics 
 
-# Quantum chromodymamics review papers 
+### Quantum chromodymamics review papers 
 * L. J. Dixon, A brief introduction to modern amplitude methods, https://arxiv.org/abs/1310.5353
 * P. Skands, Introduction to QCD, https://arxiv.org/abs/1207.2389 
 * G. F. Sterman, Partons, factorization and resummation, TASI 95, https://arxiv.org/abs/hep-ph/9606312  
+* G. P. Salam, Towards Jetography, https://arxiv.org/abs/0906.1833 
 
 ### Monte Carlo Event generators review papers 
 * A. Buckley et al., General-purpose event generators for LHC physics, https://arxiv.org/abs/1101.2599 
@@ -30,6 +31,12 @@ Basic literature and other material about particle physics (mostly high energy).
 * H. -L. Lai, et al., New parton distributions for collider physics, https://arxiv.org/abs/1007.2241 
 * R. D. Ball et al., Parton distributions with LHC data, https://arxiv.org/abs/1207.1303 
 * S. Forte, G. Watt, Progress in the Determination of the Partonic Structure of the Proton, https://arxiv.org/abs/1301.6754 
+
+### Electroweak physics review papers
+* D. Bardin et al., Precision Calculation Project Report, https://arxiv.org/abs/hep-ph/9902452 
+
+### Experiemental summary papers 
+* LEP, Precision Electroweak Measurements on the Z Resonance, https://arxiv.org/abs/hep-ex/0509008 
 
 ### Data science and statistics books 
 * G. Cowan, Statistical Data Analysis
