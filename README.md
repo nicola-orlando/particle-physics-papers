@@ -40,7 +40,19 @@ Basic literature and other material about particle physics (mostly high energy).
 
 ### Experiemental summary papers 
 * LEP, Precision Electroweak Measurements on the Z Resonance, https://arxiv.org/abs/hep-ex/0509008 
+* LEP, Electroweak Measurements in Electron-Positron Collisions at W-Boson-Pair Energies at LEP, https://arxiv.org/abs/1302.3415 
+* LEP, Search for Charged Higgs bosons: Combined Results Using LEP Data, https://arxiv.org/abs/1301.6065 
 * W. Wagner, Top quark physics in hadron collisions, https://arxiv.org/abs/hep-ph/0507207 
+* D. Bandurin et al., Review of Physics Results from the Tevatron, https://arxiv.org/abs/1409.4861
+* C. Mesropian, D. Bandurin, Review of physics results from the Tevatron: QCD physics, https://arxiv.org/abs/1409.5639
+* J. Lewis, R. van Kooten, Review of Physics Results from the Tevatron: Heavy Flavor Physics, https://arxiv.org/abs/1412.5211
+* A. V. Kotwal et al., Review of Physics Results from the Tevatron: Electroweak Physics, https://arxiv.org/abs/1409.5163
+* C. E. Gerber, C. Vellidis, Review of Physics Results from the Tevatron: Top Quark Physics, https://arxiv.org/abs/1409.5038
+* T. R. Junk, A. Juste, Review of Physics Results from the Tevatron: Higgs Boson Physics, https://arxiv.org/abs/1409.5043
+* D. Toback, L. Zivkovic, Searches for New Particles and Interactions, https://arxiv.org/abs/1409.4910
+
+### Seminal modern HEP phenomenology and theory papers 
+* M. Cacciari et al., The anti-k_t jet clustering algorithm, https://arxiv.org/abs/0802.1189 
 
 ### Data science and statistics books 
 * G. Cowan, Statistical Data Analysis
