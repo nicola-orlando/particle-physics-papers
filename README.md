@@ -1,7 +1,5 @@
 # particle-physics-resources
-Basic literature and other material about particle physics (mostly high energy). 
-
-(under development)
+Basic literature and other material for expertimental high energy physcisits
 
 ### General resources 
 * Particle Data Group http://pdg.lbl.gov  
@@ -15,10 +13,15 @@ Basic literature and other material about particle physics (mostly high energy).
 * CERN computing schools https://csc.web.cern.ch 
 * MCnet schools on Monte Carlo event generators for LHC http://www.montecarlonet.org/index.php?p=MCSchool/main&sub=MCSchools 
 
-### Quantum field theory and Standard Model books (for experimentalists)
+### Basic books
 * D. V. Schroeder, M. E. Peskin, An Introduction to Quantum Field Theory
 * A. Zee, Quantum Field Theory in a Nutshell
 * R. K. Ellis, QCD and Collider Physics 
+* G. Cowan, Statistical Data Analysis
+* H. Baer, X. Tata, Weak Scale Supersymmetry: From Superfields to Scattering Events
+* W. R. Leo, Techniques for Nuclear and Particle Physics Experiments: A How-to Approach 
+* L. Landau, E. Lifshitz, The Classical Theory of Fields
+* K. Becker, M. Becker, J. H. Schwarz, String Theory and M-Theory: A Modern Introduction
 
 ### Quantum chromodymamics review papers 
 * L. J. Dixon, A brief introduction to modern amplitude methods, https://arxiv.org/abs/1310.5353
@@ -53,9 +56,6 @@ Basic literature and other material about particle physics (mostly high energy).
 
 ### Seminal modern HEP phenomenology and theory papers 
 * M. Cacciari et al., The anti-k_t jet clustering algorithm, https://arxiv.org/abs/0802.1189 
-
-### Data science and statistics books 
-* G. Cowan, Statistical Data Analysis
 
 ### Data science and basic machine learning papers
 * T. Junk, Confidence Level Computation for Combining Searches with Small Statistics, https://arxiv.org/abs/hep-ex/9902006 
