@@ -53,9 +53,14 @@ Basic literature and other material for expertimental high energy physcisits
 * C. E. Gerber, C. Vellidis, Review of Physics Results from the Tevatron: Top Quark Physics, https://arxiv.org/abs/1409.5038
 * T. R. Junk, A. Juste, Review of Physics Results from the Tevatron: Higgs Boson Physics, https://arxiv.org/abs/1409.5043
 * D. Toback, L. Zivkovic, Searches for New Particles and Interactions, https://arxiv.org/abs/1409.4910
+* ATLAS, The ATLAS Experiment at the CERN Large Hadron Collider, http://inspirehep.net/record/796888 
 
-### Seminal modern HEP phenomenology and theory papers 
+### Seminal HEP phenomenology and theory papers 
 * M. Cacciari et al., The anti-k_t jet clustering algorithm, https://arxiv.org/abs/0802.1189 
+
+### Seminal HEP experimental papers
+* ATLAS, Observation of a new particle in the search for the Standard Model Higgs boson with the ATLAS detector at the LHC, https://arxiv.org/abs/1207.7214
+* CMS, Observation of a new boson at a mass of 125 GeV with the CMS experiment at the LHC, https://arxiv.org/abs/1207.7235 
 
 ### Data science and basic machine learning papers
 * T. Junk, Confidence Level Computation for Combining Searches with Small Statistics, https://arxiv.org/abs/hep-ex/9902006 
