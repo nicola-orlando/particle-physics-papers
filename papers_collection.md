@@ -10,6 +10,8 @@ Summary Report of Physics Beyond Colliders at CERN https://arxiv.org/abs/1902.00
 
 Higgs Physics at the HL-LHC and HE-LHC https://arxiv.org/abs/1902.00134 
 
+Dilepton top reconstruction https://arxiv.org/abs/1902.01976 
+
 **HEP pheno**
 
 Measuring the CP structure of the top Yukawa coupling in tt¯H events at the LHC https://arxiv.org/abs/1902.00298 
