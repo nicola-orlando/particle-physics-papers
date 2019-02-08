@@ -4,6 +4,8 @@
 
 Quantum Associative Memory in HEP Track Pattern Recognition https://arxiv.org/abs/1902.00498 
 
+Extending the Bump Hunt with Machine Learning https://arxiv.org/abs/1902.02634
+
 **HEP experiment** 
 
 Summary Report of Physics Beyond Colliders at CERN https://arxiv.org/abs/1902.00260 
@@ -11,6 +13,8 @@ Summary Report of Physics Beyond Colliders at CERN https://arxiv.org/abs/1902.00
 Higgs Physics at the HL-LHC and HE-LHC https://arxiv.org/abs/1902.00134 
 
 Dilepton top reconstruction https://arxiv.org/abs/1902.01976 
+
+The Metric Space of Collider Events https://arxiv.org/abs/1902.02634 
 
 **HEP pheno**
 
