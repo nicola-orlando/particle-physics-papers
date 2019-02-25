@@ -8,6 +8,8 @@ Extending the Bump Hunt with Machine Learning https://arxiv.org/abs/1902.02634
 
 Solving Differential Equations with Neural Networks: Applied to the Calculation of Cosmological Phase Transitions https://arxiv.org/abs/1902.05563 
 
+ParticleNet: Jet Tagging via Particle Clouds https://arxiv.org/abs/1902.08570  
+
 Exploring SMEFT in VH with Machine Learning https://arxiv.org/abs/1902.05803 
 
 **HEP experiment** 
@@ -15,6 +17,8 @@ Exploring SMEFT in VH with Machine Learning https://arxiv.org/abs/1902.05803
 Summary Report of Physics Beyond Colliders at CERN https://arxiv.org/abs/1902.00260 
 
 Higgs Physics at the HL-LHC and HE-LHC https://arxiv.org/abs/1902.00134 
+
+Opportunities in Flavour Physics at the HL-LHC and HE-LHC https://arxiv.org/abs/1812.07638 
 
 Dilepton top reconstruction https://arxiv.org/abs/1902.01976 
 
