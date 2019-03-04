@@ -12,6 +12,9 @@ ParticleNet: Jet Tagging via Particle Clouds https://arxiv.org/abs/1902.08570
 
 Exploring SMEFT in VH with Machine Learning https://arxiv.org/abs/1902.05803 
 
+QBDT, a new boosting decision tree method with systematic uncertainties into training for High Energy Physics https://arxiv.org/abs/1810.08387 
+
+
 **HEP experiment** 
 
 Summary Report of Physics Beyond Colliders at CERN https://arxiv.org/abs/1902.00260 
